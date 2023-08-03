@@ -17,12 +17,12 @@ KU Leuven, Department of Neurosciences, Research Group ExpORL
 Leuven.AI - KU Leuven institute for AI  
 <simon.geirnaert@esat.kuleuven.be>
 
-Miguel A. Lopez-Gordo
-University of Granada, Department of Signal Theory, Telematics and Communications
-University of Granada, NeuroEngineering and Computing Lab (NECOlab), Research Centre for Information and Communication Technologies (CITIC-UGR) 
+Miguel A. Lopez-Gordo   
+University of Granada, Department of Signal Theory, Telematics and Communications   
+University of Granada, NeuroEngineering and Computing Lab (NECOlab), Research Centre for Information and Communication Technologies
 <malg@ugr.es>
 
-Alexander Bertrand
+Alexander Bertrand   
 KU Leuven, Department of Electrical Engineering (ESAT), STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics  
 Leuven.AI - KU Leuven institute for AI  
 <alexander.bertrand@esat.kuleuven.be>
