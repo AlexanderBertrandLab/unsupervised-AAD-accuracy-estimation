@@ -19,7 +19,7 @@ Leuven.AI - KU Leuven institute for AI
 
 Miguel A. Lopez-Gordo   
 University of Granada, Department of Signal Theory, Telematics and Communications   
-University of Granada, NeuroEngineering and Computing Lab (NECOlab), Research Centre for Information and Communication Technologies
+University of Granada, NeuroEngineering and Computing Lab (NECOlab), Research Centre for Information and Communication Technologies   
 <malg@ugr.es>
 
 Alexander Bertrand   
