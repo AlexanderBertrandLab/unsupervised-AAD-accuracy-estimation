@@ -1,4 +1,4 @@
-# Unsupervised Accuracy Estimation for Correlation-based Stimulus Decoders in Auditory Attention Decoding (AAD)
+# Unsupervised Accuracy Estimation for Correlation-based Stimulus Decoders in Selective Auditory Attention Decoding (AAD)
 
 If this code has been useful to you, please cite [1].
 
@@ -29,4 +29,4 @@ Leuven.AI - KU Leuven institute for AI
 
  ## References
  
-[1] M. A. Lopez-Gordo, S. Geirnaert, and A. Bertrand, "Unsupervised Accuracy Estimation for Brain-Computer Interfaces based on Auditory Attention Decoding," TechRxiv, 2023. https://doi.org/10.36227/techrxiv.23925183.v1
+[1] M. A. Lopez-Gordo, S. Geirnaert, and A. Bertrand, "Unsupervised Accuracy Estimation for Brain-Computer Interfaces based on Selective Auditory Attention Decoding," TechRxiv, 2024. https://doi.org/10.36227/techrxiv.23925183.v1
