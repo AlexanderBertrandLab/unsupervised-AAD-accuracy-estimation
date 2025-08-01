@@ -29,4 +29,5 @@ Leuven.AI - KU Leuven institute for AI
 
  ## References
  
-[1] M. A. Lopez-Gordo, S. Geirnaert, and A. Bertrand, "Unsupervised Accuracy Estimation for Brain-Computer Interfaces based on Selective Auditory Attention Decoding," TechRxiv, 2024. https://doi.org/10.36227/techrxiv.23925183.v1
+[1] M. A. Lopez-Gordo, S. Geirnaert and A. Bertrand, "Unsupervised Accuracy Estimation for Brain–Computer Interfaces Based on Selective Auditory Attention Decoding," in IEEE Transactions on Biomedical Engineering, vol. 72, no. 8, pp. 2388-2399, Aug. 2025, doi: 10.1109/TBME.2025.3542253.
+
